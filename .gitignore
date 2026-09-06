@@ -1,0 +1,11 @@
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.o
+*.out
+~$*.docx
+students.txt
+students.dat
+result.txt
+report.txt
